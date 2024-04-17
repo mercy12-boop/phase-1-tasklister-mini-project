@@ -1,13 +1,16 @@
 html {
   height: 100%;
   width: 100%;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "Inter Sans", sans-serif;
 }
 
 body {
   min-height: 100%;
   min-width: 100%;
-  background: linear-gradient(pink, violet);
+  background-image: url(https://i.pinimg.com/originals/ed/7b/86/ed7b86e7cec9f659e0774dcfa5cf4af0.jpg);
+  /* background: linear-gradient(#9b63f5, #8c61f3); */
+  /* background-color: #fee3e2;
+  background-blend-mode: lighten; */
 }
 
 button {
